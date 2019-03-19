@@ -1,6 +1,7 @@
 <resources>
 <string name="app_name">Navigation Bar</string>
 <string name="title_home">Home</string>
-<string name="title_dashboard">Dashboard</string>
-<string name="title_notifications">Notifications</string>
+<string name="title_land">Land</string>
+<string name="title_building">Building</string>
+    <string name="title_condo">Apartment</string>
 </resources>
